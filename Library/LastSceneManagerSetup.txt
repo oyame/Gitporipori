@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/unko/Unko.unity
+- path: Assets/unko/NewChinko.unity
   isLoaded: 1
   isActive: 1
